@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 itc kapan 2021 kapan
+=======
+itc kapan 2021 hello
+>>>>>>> 56fa54c737c1903cf89a5dac48eff0d45c454606
